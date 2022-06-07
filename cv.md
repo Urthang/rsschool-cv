@@ -8,9 +8,7 @@
 * **Email:** captainurthang@gmail.com
 ---
 ## About me
-
 I started my acquaintance with IT from Tilda, but then i wanted to go deeper
-
 ---
 ## Skills
 
