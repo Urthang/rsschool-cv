@@ -1,1 +1,1 @@
-https://Urthang.github.io/rsschool-cv/cv
+https://Urthang.github.io/rsschool-cv/
