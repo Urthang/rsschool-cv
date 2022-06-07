@@ -37,7 +37,6 @@ function sum(a, b) {
   return a + b;
 } 
 ```
-
 ---
 
 ## Expirience
@@ -55,4 +54,5 @@ Nothing....... yet.
 ---
 
 ## English
+
 B2 Acoording to this test [efset.org certificate](https://www.efset.org/cert/fyzp1F), but i think it's more B1, i had a very little practice.
