@@ -1,7 +1,7 @@
 # Volkov Boris
 ## Contacts
 
-* **Location:** Moscow, Rusiia
+* **Location:** Moscow, Russia
 * **Telegram:** @CapUrthang
 * **GitHub:** [Urthang](https://github.com/Urthang)
 * **Phone:** +79263002046
