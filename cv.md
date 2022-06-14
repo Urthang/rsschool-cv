@@ -1,5 +1,5 @@
 
-# Volkov Boris
+# Boris Volkov
 
 ## Contacts
 
@@ -11,13 +11,23 @@
 
 ---
 
-## About me
+## Briefly about me
 
-I started my acquaintance with IT from Tilda, but then i wanted to go deeper
+I had many different professions from an automatic accounting systems engineer to car mechanic and small bicycle shop owner. Many of them was associated with sales. At some point I tired of selling and repairing something that made by others. I want to explore and create by myself or help with creating something important. I started my acquaintance with web dev from Tilda last year. Now I have decided to go deeper, to the roots, to the code itself. I like to learn new things and I want to learn a demand and interesting profession, which is always evolving.
 
 ---
 
-## Skills
+## Soft Skills
+
+*	Quick learner
+*	Responsible
+*	Sociable
+*	Conscientious
+*	Honest
+
+---
+
+## Hard Skills
 
 * HTML (basics)
 * CSS (basics)
@@ -41,18 +51,33 @@ function sum(a, b) {
 
 ## Expirience
 
-Nothing....... yet.
+* 2008-2014 - Private Entrepreneurship
+* 2014-2021 - Wintershop.ru
+* Responsibilities:
+* Direct sales
+* Search for new positions of goods
+* Сompiling lists of goods for next seasons purchases
+* Сommunication and document flow with suppliers and customers from other regions
+* Site administration, maintenance and filling of the 1C database, reporting etc.
 
 ---
 
 ## Education
 
 * General education
-* Tilda school 
+* Tilda school – Tilda start
 * RS School JS / FRONT-END (in process)
+* freeCodeCamp.org – Responsive web design (in process)
+* freeCodeCamp.org - JavaScript Algorithms and Data Structures (in process)
 
 ---
 
-## English
+## Languages
 
-B2 Acoording to this test [efset.org certificate](https://www.efset.org/cert/fyzp1F), but i think it's more B1, i had a very little practice.
+### Russian 
+
+Native
+
+### English
+
+B2 Acoording to this test [efset.org certificate](https://www.efset.org/cert/fyzp1F), but honestly i think it’s more A2+/B1, i had a very little practice.
